@@ -25,16 +25,24 @@ For the most part, these vegetarian-friendly recipes will follow the same guidel
 
 ![Vegetarian-Friendly Book Recipe](https://github.com/wickedfable/vegetarians-are-crazy/raw/master/recipe_book.png) 
 
+* Vegetarian-Friendly Book and Quill
+
+![Vegetarian-Friendly Book and Quill](https://github.com/wickedfable/vegetarians-are-crazy/raw/master/recipe_bookandquill.png) 
+
 * Vegetarian-Friendly Pumpkin Pie
 
 ![Vegetarian-Friendly Pumpkin Pie](https://github.com/wickedfable/vegetarians-are-crazy/raw/master/recipe_pumpkinpie.png) 
 
 **Shaped Recipes**
 
-* Vegetarian-Friendly Item Frame (Shaped)
+* Vegetarian-Friendly Item Frame 
 
 ![Vegetarian-Friendly Item Frame](https://github.com/wickedfable/vegetarians-are-crazy/raw/master/recipe_itemframe.png)
 
-* Vegetarian-Friendly Cake(Shaped)
+* Vegetarian-Friendly Feather
+
+![Vegetarian-Friendly Feather](https://github.com/wickedfable/vegetarians-are-crazy/raw/master/recipe_feather.png)
+
+* Vegetarian-Friendly Cake
 
 ![Vegetarian-Friendly Item Cake](https://github.com/wickedfable/vegetarians-are-crazy/raw/master/recipe_cake.png)
